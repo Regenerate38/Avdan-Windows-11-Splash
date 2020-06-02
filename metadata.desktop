@@ -1,0 +1,17 @@
+[Desktop Entry]
+Comment= KDE Splash from the idea of bootscreen of windows 11 concept by Avdan.(Video=https://youtu.be/mrooowtpQM4)
+
+Encoding= UTF-8
+Keywords=Desktop;Workspace;Appearance;Splash;Hibernate;Shutdown;Suspend;Look and Feel
+Name=Avdan_Windows_11_Concept_Splash
+
+Type=Service
+
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Name=Avdan_Windows_11_Concept_Splash
+X-KDE-PluginInfo-Author=AeRegeneratel38
+X-KDE-PluginInfo-Email=mukunda.adhikari@outlook.com  
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-Plasma-MainScript=defaults 
